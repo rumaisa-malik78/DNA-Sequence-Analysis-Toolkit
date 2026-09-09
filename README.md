@@ -255,6 +255,14 @@ The project generates:
 * **Nucleotide composition plot**
 * **GC content plot**
 
+### Nucleotide Composition
+
+![Nucleotide Composition](images/nucleotide%20composition.png)
+
+### GC Content
+
+![GC Content](images/gc%20content.png)
+
 The plots are saved as high-resolution PNG images using `dpi=300`.
 
 ---
